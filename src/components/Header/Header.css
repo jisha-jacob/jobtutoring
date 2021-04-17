@@ -1,0 +1,35 @@
+.Header{
+    background-color: rgb(199, 214, 163);
+    margin-top: 0;
+    padding:0;
+    }
+ 
+
+.Header h2{
+    color: rgb(0, 118, 139);
+    font-family: cursive;
+    font-size: 300%;
+       
+
+}
+
+
+.Header h4,h5 {
+    color: rgb(0, 118, 139);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    align-content: center;
+    padding:1px;  
+    
+
+}
+
+.Header h5{
+    margin-bottom: 2px; 
+}
+
+.Header h6{
+    color: rgb(0, 118, 139);
+    margin-top:"2px";
+    color: "rgb(0, 139, 120)";
+}

@@ -1,0 +1,10 @@
+.Footer {
+    flex-shrink: 0;
+    padding:0;
+    margin-bottom: 0;
+    margin:0;
+    text-align: center;
+    background-color: rgb(199, 214, 163);
+    color: rgb(0, 118, 139);
+  }
+  

@@ -1,0 +1,71 @@
+.Main{
+  display: flex;
+ 
+  align-items: center;
+}
+.JobDesc{
+  align-items: center;
+  display: flex;
+  width:60%;
+  
+}
+
+.CourseOutput{
+  align-items: center;
+  margin:30px;
+  width:40%;
+  padding-block: 30px;
+  display: block;
+  clear: left;
+}
+.JobDesc textarea{
+    width: 180%;
+    height:400px;
+    margin: 30px;
+    overflow:scroll;
+   
+    left: 2px;
+    
+}
+
+  .JobDesc a{
+            border-radius: 4px;
+            background: linear-gradient(to right, #67b26b, #4ca2cb);
+            border: none;
+            color: #FFFFFF;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 20px;
+            padding: 5px;
+            width: 200px;
+            transition: all 0.4s;
+            cursor: pointer;
+            margin: 5px;
+            top: 50%;
+            left: 50%;
+           
+          }
+          .JobDesc a span {
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            transition: 0.4s;
+          }
+          .JobDesc a span:after {
+            content: '\00bb';
+            position: absolute;
+            opacity: 0;
+            top: 0;
+            right: -20px;
+            transition: 0.5s;
+          }
+          .JobDesc a:hover span {
+            padding-right: 25px;
+            
+          }
+          .JobDesc a:hover span:after {
+            opacity: 1;
+            right: 0;
+            
+          }
+          
