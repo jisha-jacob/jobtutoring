@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jobtutoring/static/css/main.a5d52be4.chunk.css",
+    "main.js": "/jobtutoring/static/js/main.b3c19417.chunk.js",
+    "main.js.map": "/jobtutoring/static/js/main.b3c19417.chunk.js.map",
+    "runtime-main.js": "/jobtutoring/static/js/runtime-main.33fe1fb2.js",
+    "runtime-main.js.map": "/jobtutoring/static/js/runtime-main.33fe1fb2.js.map",
+    "static/js/2.1f12fa9d.chunk.js": "/jobtutoring/static/js/2.1f12fa9d.chunk.js",
+    "static/js/2.1f12fa9d.chunk.js.map": "/jobtutoring/static/js/2.1f12fa9d.chunk.js.map",
+    "static/js/3.145338cf.chunk.js": "/jobtutoring/static/js/3.145338cf.chunk.js",
+    "static/js/3.145338cf.chunk.js.map": "/jobtutoring/static/js/3.145338cf.chunk.js.map",
+    "index.html": "/jobtutoring/index.html",
+    "static/css/main.a5d52be4.chunk.css.map": "/jobtutoring/static/css/main.a5d52be4.chunk.css.map",
+    "static/js/2.1f12fa9d.chunk.js.LICENSE.txt": "/jobtutoring/static/js/2.1f12fa9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33fe1fb2.js",
+    "static/js/2.1f12fa9d.chunk.js",
+    "static/css/main.a5d52be4.chunk.css",
+    "static/js/main.b3c19417.chunk.js"
+  ]
+}
